@@ -3,7 +3,7 @@ Mines
 
 [![](assets/SS-thumb.png)](assets/SS.png)
 
-大学2年の課題で作ったマインスイーパーです。
+大学2年の課題で作ったマインスイーパーです。<br />
 設定により、盤面サイズと爆弾数が変更可能です。
 
 ## 実行
@@ -19,5 +19,5 @@ $ java Mines
 - Swing
 
 ## ライセンス
-MIT-License
+MIT-License<br />
 Copyright (c) 2012 Pine Mizune
